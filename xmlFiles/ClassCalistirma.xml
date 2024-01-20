@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="istenen class'lari calistirma">
+
+    <test name="belirli classlari calistirma">
+
+        <classes>
+            <class name="tests/US06_US14_US16_US35/US35"></class>
+        </classes>
+
+    </test>
+
+
+</suite>
